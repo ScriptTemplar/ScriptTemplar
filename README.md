@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ScriptTemplar
+- 👀 I’m interested in Python and SQL.
+- 🌱 I’m currently learning coding.
